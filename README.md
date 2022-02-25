@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+* Lien vers le site déployé sur Netlify : https://reverent-ritchie-ad8233.netlify.app
